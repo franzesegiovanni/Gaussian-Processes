@@ -1,6 +1,4 @@
-# Gaussian Processes - A List of References
-I am providing a list of references for Gaussain Processes.
-
+# Gaussian Processes - From Start to Hero
 ## Books and Book Chapters
 1.  **Gaussian Processes for Machine Learning** by Carl Edward Rasmussen and Christopher K. I. Williams published by The MIT Press. http://www.gaussianprocess.org/gpml/ and [pdf] http://www.gaussianprocess.org/gpml/chapters/RW.pdf.
 
@@ -23,10 +21,11 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 
 ## Peer-reviewed and non-peer reviewed resources
 1.  **Gaussian Processes: A Quick Introduction** by Mark Ebden. https://arxiv.org/abs/1505.02965
-2.  **Gaussian Processes for Dummies** by Katherine Bailey. http://katbailey.github.io/post/gaussian-processes-for-dummies/
-3.  **Gaussian processes** by Martin Krasser. http://krasserm.github.io/2018/03/19/gaussian-processes/
-4.  **Fitting Gaussian Process Models in Python** by Chris Fonnesbeck. https://blog.dominodatalab.com/fitting-gaussian-process-models-python/
-5.  **A Visual Exploration of Gaussian Processes** by Jochen Görtler et al. https://distill.pub/2019/visual-exploration-gaussian-processes/
+2.  **A Visual Exploration of Gaussian Processes** by Jochen Görtler et al. https://distill.pub/2019/visual-exploration-gaussian-processes/
+3.  **Gaussian Processes for Dummies** by Katherine Bailey. http://katbailey.github.io/post/gaussian-processes-for-dummies/
+4.  **Gaussian processes** by Martin Krasser. http://krasserm.github.io/2018/03/19/gaussian-processes/
+5.  **Fitting Gaussian Process Models in Python** by Chris Fonnesbeck. https://blog.dominodatalab.com/fitting-gaussian-process-models-python/
+
 
 ## Learn about Deep Gaussian Process
 1. **Learn first about Latent Variable Modelling with Gaussian Process**  by Gregory Gundersen. https://gregorygundersen.com/blog/2020/07/14/pca-to-gplvm/
@@ -36,3 +35,8 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 
 ## How to deal with the Curse of Dimensionality? ##
 1. **A Tutorial on Sparse Gaussian Processes and Variational Inference** by Felix Leibfried
+
+# Gaussian Process for Robotics and Control 
+
+1. **PILCO: A Model-Based and Data-Efficient Approach to Policy Search** by Marc Peter Deisenroth et al. https://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf
+2. **ILoSA: Interactive Learning of Stiffness and Attractors** by Giovanni Franzese et al. https://arxiv.org/pdf/2103.03099.pdf
