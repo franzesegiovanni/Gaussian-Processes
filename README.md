@@ -38,7 +38,8 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 2. **Gaussian Processes for Big Data** by James Hensman et al. https://arxiv.org/ftp/arxiv/papers/1309/1309.6835.pdf
 
 ## How to deal with high dimensional inputs? ##
-
+1. **Convolutional Gaussian Process** by Mark van der Wilk
+ https://proceedings.neurips.cc/paper/2017/file/1c54985e4f95b7819ca0357c0cb9a09f-Paper.pdf [https://gpflow.readthedocs.io/en/master/notebooks/advanced/convolutional.html]
 # Gaussian Process for Robotics and Control 
 ## Gaussian Process for Model Learning and (Predictive) Control ##
 1. **PILCO: A Model-Based and Data-Efficient Approach to Policy Search** by Marc Peter Deisenroth et al. https://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf
