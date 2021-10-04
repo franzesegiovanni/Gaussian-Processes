@@ -27,3 +27,12 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 3.  **Gaussian processes** by Martin Krasser. http://krasserm.github.io/2018/03/19/gaussian-processes/
 4.  **Fitting Gaussian Process Models in Python** by Chris Fonnesbeck. https://blog.dominodatalab.com/fitting-gaussian-process-models-python/
 5.  **A Visual Exploration of Gaussian Processes** by Jochen Görtler et al. https://distill.pub/2019/visual-exploration-gaussian-processes/
+
+## Learn about Deep Gaussian Process
+1. **Learn first about Latent Variable Modelling with Gaussian Process**  by Gregory Gundersen. https://gregorygundersen.com/blog/2020/07/14/pca-to-gplvm/
+2. **Bayesian Gaussian Process Latent Variable Model** by Neil Lawrence. http://proceedings.mlr.press/v9/titsias10a/titsias10a.pdf
+3. **Introduction on Gaussian Process** by Neil Lawrence. http://inverseprobability.com/talks/notes/introduction-to-deep-gps.html
+4. **Deep Gaussian Process**. by Andreas C. Damianou, Neil D. Lawrence.  https://arxiv.org/abs/1211.0358
+
+## How to deal with the Curse of Dimensionality? ##
+1. **A Tutorial on Sparse Gaussian Processes and Variational Inference** by Felix Leibfried
