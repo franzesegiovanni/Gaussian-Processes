@@ -40,8 +40,9 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 ## How to deal with high dimensional inputs? ##
 
 # Gaussian Process for Robotics and Control 
-## Gaussian Process for Reinforcement Learning ##
+## Gaussian Process for Model Learning and (Predictive) Control ##
 1. **PILCO: A Model-Based and Data-Efficient Approach to Policy Search** by Marc Peter Deisenroth et al. https://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf
+2. **Cautious Model Predictive Control using Gaussian Process Regression** by Lukas Hewing https://arxiv.org/pdf/1705.10702.pdf
 
 ## Gaussian Process for Interactive Imitation Learning ##
 2. **ILoSA: Interactive Learning of Stiffness and Attractors** by Giovanni Franzese et al. https://arxiv.org/pdf/2103.03099.pdf
