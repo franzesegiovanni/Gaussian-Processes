@@ -26,3 +26,4 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 2.  **Gaussian Processes for Dummies** by Katherine Bailey. http://katbailey.github.io/post/gaussian-processes-for-dummies/
 3.  **Gaussian processes** by Martin Krasser. http://krasserm.github.io/2018/03/19/gaussian-processes/
 4.  **Fitting Gaussian Process Models in Python** by Chris Fonnesbeck. https://blog.dominodatalab.com/fitting-gaussian-process-models-python/
+5.  **A Visual Exploration of Gaussian Processes** by Jochen Görtler et al. https://distill.pub/2019/visual-exploration-gaussian-processes/
