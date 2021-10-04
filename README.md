@@ -33,10 +33,16 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 3. **Introduction on Gaussian Process** by Neil Lawrence. http://inverseprobability.com/talks/notes/introduction-to-deep-gps.html
 4. **Deep Gaussian Process**. by Andreas C. Damianou, Neil D. Lawrence.  https://arxiv.org/abs/1211.0358
 
-## How to deal with the Curse of Dimensionality? ##
-1. **A Tutorial on Sparse Gaussian Processes and Variational Inference** by Felix Leibfried
+## How to deal with the Curse of Dimensionality, i.e. big databases? ##
+1. **A Tutorial on Sparse Gaussian Processes and Variational Inference** by Felix Leibfried https://arxiv.org/pdf/2012.13962.pdf
+2. **Gaussian Processes for Big Data** by James Hensman et al. https://arxiv.org/ftp/arxiv/papers/1309/1309.6835.pdf
+
+## How to deal with high dimensional inputs? ##
 
 # Gaussian Process for Robotics and Control 
-
+## Gaussian Process for Reinforcement Learning ##
 1. **PILCO: A Model-Based and Data-Efficient Approach to Policy Search** by Marc Peter Deisenroth et al. https://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf
+
+## Gaussian Process for Interactive Imitation Learning ##
 2. **ILoSA: Interactive Learning of Stiffness and Attractors** by Giovanni Franzese et al. https://arxiv.org/pdf/2103.03099.pdf
+3. **Interactive Learning of Sensor Policy Fusion** by Bart Bootsma et al. http://www.jenskober.de/publications/Bootsma2021RO-MAN.pdf
