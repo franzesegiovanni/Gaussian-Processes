@@ -1,9 +1,11 @@
 # Gaussian Processes - From Start to Hero
+## Preliminarities 
+1. What is Uncertainty? https://en.wikipedia.org/wiki/Uncertainty_quantification?oldformat=true
+
 ## Books and Book Chapters
 1.  **Gaussian Processes for Machine Learning** by Carl Edward Rasmussen and Christopher K. I. Williams published by The MIT Press. http://www.gaussianprocess.org/gpml/ and [pdf] http://www.gaussianprocess.org/gpml/chapters/RW.pdf.
 
 This is the ultimate referece for Gaussian Processes. The book introduces Gaussian Processes, comprehensively covers regression and classfication with Gaussian processes and describes in detail related topics including covariacne funcions (i.e., kernels), hyperparamters, approximations and much more. I will strongly recommend this book for any one interested in learn about Gaussian Processes and using these in their machine learning work.
-
 
 2.  **Machine Learning A Probabilistic Perspective (Chapter 15)** by Kevin P. Murphy published by The MIT Press. https://mitpress.mit.edu/books/machine-learning-1 and https://www.cs.ubc.ca/~murphyk/MLbook/.
 
@@ -18,6 +20,8 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 
 2.  **CS229: Machine Learning**. http://cs229.stanford.edu/section/cs229-gaussian_processes.pdf
 
+3. **Gaussian Process Summer School**. https://www.youtube.com/watch?v=tkDYEAoN5Eo&list=PLZ_xn3EIbxZGcqHGFj-P_SI6OCXy8TfoL
+
 
 ## Peer-reviewed and non-peer reviewed resources
 1.  **Gaussian Processes: A Quick Introduction** by Mark Ebden. https://arxiv.org/abs/1505.02965
@@ -25,6 +29,7 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 3.  **Gaussian Processes for Dummies** by Katherine Bailey. http://katbailey.github.io/post/gaussian-processes-for-dummies/
 4.  **Gaussian processes** by Martin Krasser. http://krasserm.github.io/2018/03/19/gaussian-processes/
 5.  **Fitting Gaussian Process Models in Python** by Chris Fonnesbeck. https://blog.dominodatalab.com/fitting-gaussian-process-models-python/
+6.  **How to design the best kernel for your applications?** https://www.cs.toronto.edu/~duvenaud/cookbook/
 
 
 ## Learn about Deep Gaussian Process
@@ -36,15 +41,16 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 ## How to deal with the Curse of Dimensionality, i.e. big databases? ##
 1. **A Tutorial on Sparse Gaussian Processes and Variational Inference** by Felix Leibfried https://arxiv.org/pdf/2012.13962.pdf
 2. **Gaussian Processes for Big Data** by James Hensman et al. https://arxiv.org/ftp/arxiv/papers/1309/1309.6835.pdf
+3.  **Distributed Gaussian Process**   by Marc Deisenroth et al. https://arxiv.org/pdf/1502.02843.pdf
 
 ## How to deal with high dimensional inputs? ##
 1. **Convolutional Gaussian Process** by Mark van der Wilk
  https://proceedings.neurips.cc/paper/2017/file/1c54985e4f95b7819ca0357c0cb9a09f-Paper.pdf [https://gpflow.readthedocs.io/en/master/notebooks/advanced/convolutional.html]
+
 # Gaussian Process for Robotics and Control 
 ## Gaussian Process for Model Learning and (Predictive) Control ##
 1. **PILCO: A Model-Based and Data-Efficient Approach to Policy Search** by Marc Peter Deisenroth et al. https://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf
 2. **Cautious Model Predictive Control using Gaussian Process Regression** by Lukas Hewing https://arxiv.org/pdf/1705.10702.pdf
+3. **ILoSA: Interactive Learning of Stiffness and Attractors** by Giovanni Franzese et al. https://arxiv.org/pdf/2103.03099.pdf
 
-## Gaussian Process for Interactive Imitation Learning ##
-2. **ILoSA: Interactive Learning of Stiffness and Attractors** by Giovanni Franzese et al. https://arxiv.org/pdf/2103.03099.pdf
-3. **Interactive Learning of Sensor Policy Fusion** by Bart Bootsma et al. http://www.jenskober.de/publications/Bootsma2021RO-MAN.pdf
+
