@@ -53,4 +53,10 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 2. **Cautious Model Predictive Control using Gaussian Process Regression** by Lukas Hewing https://arxiv.org/pdf/1705.10702.pdf
 3. **ILoSA: Interactive Learning of Stiffness and Attractors** by Giovanni Franzese et al. https://arxiv.org/pdf/2103.03099.pdf
 
+#Visualization of Gaussian Process
+1. https://infallible-thompson-49de36.netlify.app/
+2. http://smlbook.org/GP/
+3. http://www.tmpl.fi/gp/
+4. https://chi-feng.github.io/gp-demo/
+
 
