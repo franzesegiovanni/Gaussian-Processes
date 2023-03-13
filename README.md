@@ -38,12 +38,18 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 3. **Introduction on Gaussian Process** by Neil Lawrence. http://inverseprobability.com/talks/notes/introduction-to-deep-gps.html
 4. **Deep Gaussian Process**. by Andreas C. Damianou, Neil D. Lawrence.  https://arxiv.org/abs/1211.0358
 
-## How to deal with the Curse of Dimensionality, i.e. big databases? ##
+## How to deal with Big Databases? ##
 1. **A Tutorial on Sparse Gaussian Processes and Variational Inference** by Felix Leibfried https://arxiv.org/pdf/2012.13962.pdf
 2. **Gaussian Processes for Big Data** by James Hensman et al. https://arxiv.org/ftp/arxiv/papers/1309/1309.6835.pdf
 3.  **Distributed Gaussian Process**   by Marc Deisenroth et al. https://arxiv.org/pdf/1502.02843.pdf
 
-## How to deal with high dimensional inputs? ##
+# Learning about Gaussian Process approximation: Approximate the prior vs approximate the posterior
+1. Understanding and Comparing Scalable Gaussian Process Regression for Big Data: https://arxiv.org/pdf/1811.01159v1.pdf 
+This paper is making the distinction between FITC and SVGP on what they are actually approximating. FITC is doing an approximation of the prior distribution while SVGP is doing an approximation of the posterior distribution. 
+2. FITC and VFE https://bwengals.github.io/fitc-and-vfe.html. This is an interesting blog post for the comparison of FITC to VFE. From a practical point of view, FITC and SVGP are optimizing one the log marginal likelihood and another the Evidence Lower Bounds however pratically, the two cost functions are really similar and it is interesting. This blogpost highlights this again. 
+3. Sparse Variational Gaussian Procees : https://tiao.io/post/sparse-variational-gaussian-processes/
+
+## How to deal with the Curse of Dimensionality, i.e. many inputs?  ##
 1. **Convolutional Gaussian Process** by Mark van der Wilk
  https://proceedings.neurips.cc/paper/2017/file/1c54985e4f95b7819ca0357c0cb9a09f-Paper.pdf [https://gpflow.readthedocs.io/en/master/notebooks/advanced/convolutional.html]
 
@@ -53,11 +59,6 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 2. **Cautious Model Predictive Control using Gaussian Process Regression** by Lukas Hewing https://arxiv.org/pdf/1705.10702.pdf
 3. **ILoSA: Interactive Learning of Stiffness and Attractors** by Giovanni Franzese et al. https://arxiv.org/pdf/2103.03099.pdf
 
-# Learning about Gaussian Process approximation: Approximate the prior vs approximate the posterior
-1. Understanding and Comparing Scalable Gaussian Process Regression for Big Data: https://arxiv.org/pdf/1811.01159v1.pdf 
-This paper is making the distinction between FITC and SVGP on what they are actually approximating. FITC is doing an approximation of the prior distribution while SVGP is doing an approximation of the posterior distribution. 
-
-Sparse Variational Gaussian Procees : https://tiao.io/post/sparse-variational-gaussian-processes/
 # Visualization of Gaussian Process
 1. https://infallible-thompson-49de36.netlify.app/
 2. http://smlbook.org/GP/
