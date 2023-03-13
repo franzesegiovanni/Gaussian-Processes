@@ -31,13 +31,6 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 5.  **Fitting Gaussian Process Models in Python** by Chris Fonnesbeck. https://blog.dominodatalab.com/fitting-gaussian-process-models-python/
 6.  **How to design the best kernel for your applications?** https://www.cs.toronto.edu/~duvenaud/cookbook/
 
-
-## Learn about Deep Gaussian Process
-1. **Learn first about Latent Variable Modelling with Gaussian Process**  by Gregory Gundersen. https://gregorygundersen.com/blog/2020/07/14/pca-to-gplvm/
-2. **Bayesian Gaussian Process Latent Variable Model** by Neil Lawrence. http://proceedings.mlr.press/v9/titsias10a/titsias10a.pdf
-3. **Introduction on Gaussian Process** by Neil Lawrence. http://inverseprobability.com/talks/notes/introduction-to-deep-gps.html
-4. **Deep Gaussian Process**. by Andreas C. Damianou, Neil D. Lawrence.  https://arxiv.org/abs/1211.0358
-
 ## How to deal with Big Databases? ##
 1. **A Tutorial on Sparse Gaussian Processes and Variational Inference** by Felix Leibfried https://arxiv.org/pdf/2012.13962.pdf
 2. **Gaussian Processes for Big Data** by James Hensman et al. https://arxiv.org/ftp/arxiv/papers/1309/1309.6835.pdf
@@ -52,6 +45,12 @@ This paper is making the distinction between FITC and SVGP on what they are actu
 ## How to deal with the Curse of Dimensionality, i.e. many inputs?  ##
 1. **Convolutional Gaussian Process** by Mark van der Wilk
  https://proceedings.neurips.cc/paper/2017/file/1c54985e4f95b7819ca0357c0cb9a09f-Paper.pdf [https://gpflow.readthedocs.io/en/master/notebooks/advanced/convolutional.html]
+
+## Learn about Deep Gaussian Process
+1. **Learn first about Latent Variable Modelling with Gaussian Process**  by Gregory Gundersen. https://gregorygundersen.com/blog/2020/07/14/pca-to-gplvm/
+2. **Bayesian Gaussian Process Latent Variable Model** by Neil Lawrence. http://proceedings.mlr.press/v9/titsias10a/titsias10a.pdf
+3. **Introduction on Gaussian Process** by Neil Lawrence. http://inverseprobability.com/talks/notes/introduction-to-deep-gps.html
+4. **Deep Gaussian Process**. by Andreas C. Damianou, Neil D. Lawrence.  https://arxiv.org/abs/1211.0358
 
 # Gaussian Process for Robotics and Control 
 ## Gaussian Process for Model Learning and (Predictive) Control ##
