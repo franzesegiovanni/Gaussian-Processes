@@ -41,6 +41,10 @@ This is the ultimate referece for Gaussian Processes. The book introduces Gaussi
 This paper is making the distinction between FITC and SVGP on what they are actually approximating. FITC is doing an approximation of the prior distribution while SVGP is doing an approximation of the posterior distribution. 
 2. FITC and VFE https://bwengals.github.io/fitc-and-vfe.html. This is an interesting blog post for the comparison of FITC to VFE. From a practical point of view, FITC and SVGP are optimizing one the log marginal likelihood and another the Evidence Lower Bounds however pratically, the two cost functions are really similar and it is interesting. This blogpost highlights this again. 
 3. Sparse Variational Gaussian Procees : https://tiao.io/post/sparse-variational-gaussian-processes/
+4. Understand the basic of Variational Inference https://zhiyzuo.github.io/VI/ & https://arxiv.org/pdf/1601.00670.pdf
+5. The Variational Approximation for Bayesian Inference https://www.cs.uoi.gr/~arly/papers/SPM08.pdf
+6. Scalable Variational Gaussian Process Classification https://proceedings.mlr.press/v38/hensman15.pdf
+7. Scalable Gaussian process inference using variational methods https://api.repository.cam.ac.uk/server/api/core/bitstreams/c3612b80-36a4-4620-92ce-d389eeea98f8/content
 
 ## How to deal with the Curse of Dimensionality, i.e. many inputs?  ##
 1. **Convolutional Gaussian Process** by Mark van der Wilk
